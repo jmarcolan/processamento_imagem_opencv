@@ -13,13 +13,13 @@ from matplotlib import pyplot as plt
 height = 300
 width =200
 # vetor de dados inteiro 
-blank_image = np.zeros((height,width,3), np.uint8)
+blank_image = np.zeros((height,width,3), np.uint8) # estrutura, esqueleto
 # blank_image[:,0:width//2] = (255,0,0)      # (B, G, R)
 # blank_image[:,width//2:width] = (0,255,0)
 
 
-blank_image[0:height//2, 0:width] = (255,255,255) #whtie
-blank_image[height//2:height, 0:width] = (0,0,0) #whtie
+blank_image[0:height//2, 0:width] = (255,255,255) #whtie slice
+blank_image[height//2:height, 0:width] = (0,0,0) #preto slice
 
 color_image = np.zeros((height,width,3), np.uint8)
 

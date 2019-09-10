@@ -1,15 +1,50 @@
 # processamento_imagem_opencv
 Processamento de imagem opencv
 
+# Parte 0
+    - O que vc vai precisa para fazer esses tutoriais
+        - vscode
+        - python
+        - bibliotecas (pip reqs)
 
 
-# Filtros
-Filtra por cor, filtros binários
+# Parte 1
+- O que é uma imagem 
+    -como criar uma imagem 
+        - formatação rgb
+    - como vizualizar essa imagem
+        - vizualizando o histograma dessa imagem 
+        - vizulizando a imagme propriamente dita.
 
-Detecção por cor
+    - como abrir uma imagem
+        
 
-Detcção por borda.
 
+# Parte 2
+
+    - Manipulando imagens 
+
+        - desenhando nas imagens
+            -circulo, retangulo
+            - linha
+        - somando imagens
+            -somando duas imagens (m)
+        - diminuindo imagem (segmentação de plano de fundo)
+            -diminuindo duas imagens
+        - diminuindo imagens (m)
+        - criando mascaras (m)
+    - Binarizando as imagens (branco e preto )
+        
+        
+
+# Parte 3
+    - Filtros cores
+    - filtros morfologicos
+
+
+# deteccao de contorno
+    - deteccao de controntor
+        - extracao de descritores. 
 
 # Fontes
 
@@ -26,3 +61,6 @@ Detcção por borda.
 - https://docs.opencv.org/3.0-beta/modules/imgproc/doc/filtering.html#Mat%20getStructuringElement(int%20shape,%20Size%20ksize,%20Point%20anchor)
 - https://docs.opencv.org/3.0-beta/modules/imgproc/doc/filtering.html#Mat%20getStructuringElement(int%20shape,%20Size%20ksize,%20Point%20anchor)
 - https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_image_display/py_image_display.html
+
+
+- C:\Users\marcolan\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\teste
