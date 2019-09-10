@@ -3,23 +3,35 @@ Processamento de imagem opencv
 
 # Parte 0
     - O que vc vai precisa para fazer esses tutoriais
-        - vscode
+        - vscode (spider (m))
         - python
         - bibliotecas (pip reqs)
+            - opencv
+            - numpy
+            - matplotlib
 
 
 # Parte 1
 - O que é uma imagem 
     -como criar uma imagem 
-        - formatação rgb
+        - formatação bgr
     - como vizualizar essa imagem
         - vizualizando o histograma dessa imagem 
         - vizulizando a imagme propriamente dita.
 
     - como abrir uma imagem
-        
+    
+    https://www.geeksforgeeks.org/numpy-ravel-python/
+    https://stackoverflow.com/questions/44554125/python-want-to-display-red-channel-only-in-opencv
+    https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_setup/py_intro/py_intro.html#intro
+    Numpy is a highly optimized library for numerical operations
+    abrir e mostra na tela 
+  https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html#display-image
 
 
+
+https://stackoverflow.com/questions/15072736/extracting-a-region-from-an-image-using-slicing-in-python-opencv/15074748#15074748
+https://stackoverflow.com/questions/15072736/extracting-a-region-from-an-image-using-slicing-in-python-opencv/15074748#15074748
 # Parte 2
 
     - Manipulando imagens 
@@ -48,6 +60,7 @@ Processamento de imagem opencv
 
 # Fontes
 
+- https://stackoverflow.com/questions/46587226/spyder-installation-without-anaconda
 - http://scipy-lectures.org/advanced/image_processing/
 
 - http://www.degeneratestate.org/posts/2016/Oct/23/image-processing-with-numpy/
