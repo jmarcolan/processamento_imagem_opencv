@@ -13,7 +13,7 @@ blank_image = np.zeros((height,width,3), np.uint8) # estrutura, esqueleto
 # blank_image[:,0:width//2] = (255,0,0)      # (B, G, R)
 # blank_image[:,width//2:width] = (0,255,0)
 
-
+# bgr
 blank_image[0:height//2, 0:width] = (150,200,80) #whtie slice
 blank_image[height//2:height, 0:width] = (0,0,0) #preto slice
 

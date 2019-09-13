@@ -1,9 +1,13 @@
-import numpy as np
 import cv2
+import numpy as np
+import matplotlib.pyplot as plt
 
 
-# manipulando a imagem 
+# ocntruir uma imagem
 
+# o que é uma imagme 
+# como abrir e como vizualizar uma imagem
+# abrir e vizualizações de imagem 
 
 height = 300
 width =300

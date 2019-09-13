@@ -1,6 +1,21 @@
 # processamento_imagem_opencv
 Processamento de imagem opencv
 
+
+
+# O que é uma imagem
+    - como construir uma imagem
+    - como vizualizar essa imagem
+    
+
+# Abrindo uma imagem
+    -abrir imagem
+    -vizualizar imagem
+
+
+
+
+
 # Parte 0
     - O que vc vai precisa para fazer esses tutoriais
         - vscode (spider (m))
@@ -16,9 +31,13 @@ Processamento de imagem opencv
     -como criar uma imagem 
         - formatação bgr
     - como vizualizar essa imagem
-        - vizualizando o histograma dessa imagem 
-        - vizulizando a imagme propriamente dita.
+        - vizualizando o histograma dessa imagem  (Representacao de quantidade)
+        - vizulizando a imagme propriamente dita. (representacao colorida)
 
+    - entendendo as iamgems
+        -construindo uma imagem
+        - vizualizando uma imagem
+    
     - como abrir uma imagem
     
     https://www.geeksforgeeks.org/numpy-ravel-python/
@@ -32,6 +51,8 @@ Processamento de imagem opencv
 
 https://stackoverflow.com/questions/15072736/extracting-a-region-from-an-image-using-slicing-in-python-opencv/15074748#15074748
 https://stackoverflow.com/questions/15072736/extracting-a-region-from-an-image-using-slicing-in-python-opencv/15074748#15074748
+
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_drawing_functions/py_drawing_functions.html#drawing-functions
 # Parte 2
 
     - Manipulando imagens 
